@@ -16,32 +16,27 @@ authors:
   - name: Shuya Ikeda
     orcid: 0000-0002-1357-5159
     affiliation: 2
-  - name: Heval Kinch
-    affiliation: 3
   - name: Núria Queralt Rosinach
     orcid: 0000-0003-0169-8159
-    affiliation: 4
+    affiliation: 3
   - name: Erick Antezana
     orcid: 0000-0002-2497-8236
-    affiliation: 5
+    affiliation: 4
   - name: Julia Koblitz
     orcid: 0000-0002-7260-2129
-    affiliation: 6
-  - name: Tore Eriksson
-    affiliation: 7
+    affiliation: 5
 affiliations:
   - name: Micelio BV
     index: 1
   - name: Database Center for Life Science (DBCLS), ROIS-DS
     index: 2
   - name: Leiden University Medical Center (LUMC), Netherlands
-    index: 4
+    index: 3
   - name: UN International Computing Centre (UNICC), Spain
-    index: 5
+    index: 4
   - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures
-    index: 6
-  - name: Taisho Pharmaceutical, Japan
-    index: 7
+    index: 5
+
 date: 21 September 2024
 cito-bibliography: paper.bib
 event: BH24JP
