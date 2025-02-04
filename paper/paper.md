@@ -128,10 +128,12 @@ A WikiBlitz combines citizen science and Wikimedia projects to document biodiver
 #### Create accounts on iNaturalist and Wikimedia
 To participate in the WikiBlitz, you need at least an iNaturalist account. A Wikimedia account is also recommended.
 
-##### Create an iNaturalist account: https://www.inaturalist.org/signup.
+##### Create an iNaturalist account: 
+Register here: https://www.inaturalist.org/signup.
 While iNaturalist is mainly used via mobile, we recommend signing up on a desktop because some settings (such as licenses) can only be changed there.
 
-##### Create a Wikimedia account: https://www.wikidata.org/w/index.php?title=Special:CreateAccount.
+##### Create a Wikimedia account: 
+Register here: https://www.wikidata.org/w/index.php?title=Special:CreateAccount.
 * Wikimedia accounts work across multiple platforms, including Wikidata, Wikipedia, and Wikimedia Commons.
 * Since we focus on linked data, we suggest creating an account via Wikidata.
 
