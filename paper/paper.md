@@ -125,7 +125,7 @@ A WikiBlitz combines citizen science and Wikimedia projects to document biodiver
 3.	Identify target species and locations.
 4.	Coordinate with local biodiversity experts or WikiProjects.
 
-#### Create accounts on iNaturalist and Wikimedia
+#### Create accounts on iNaturalist and Wikimedia 
 To participate in the WikiBlitz, you need at least an iNaturalist account. A Wikimedia account is also recommended.
 
 ##### Create an iNaturalist account: 
